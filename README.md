@@ -9,13 +9,19 @@ Float UI is collection of modern UI components and website templates built on to
 First, Float UI is fully free, and open source, you don't need to pay anything to use it, and we are working on it full-time, so we'll keep improving, and adding more UIs, the second thing if you’re working on a large project that requires a high level of UI customization or you find yourself repeating the same UI patterns across projects, consider creating an internal UI library, and in this case Float UI is a great choice. You should definitely use it.
 
   ### The Best Templates
-    <img  src='Screenshots/Templates.jpg' align='center' >
+  <p align="center">
+  <a href="https://floatui.com/templates" rel="noopener" target="_blank"><img src="Screenshots/Templates.jpeg" alt="Float UI "></a>
+</p>
       
   ### Live Demos
-    <img  src='Screenshots/live demos.jpg' align='center' >
+  <p align="center">
+  <a href="https://floatui.com/demo" rel="noopener" target="_blank"><img src="Screenshots/live demos.jpeg" alt="Float UI "></a>
+</p>
 
   ### Components
-    <img src='Screenshots/Components.jpg'  align='center' >
+  <p align="center">
+  <a href="https://floatui.com/components" rel="noopener" target="_blank"><img src="Screenshots/Components.jpeg" alt="Float UI"></a>
+</p>
 
 ## Getting Started
 
